@@ -2,3 +2,5 @@ fastapi
 pydantic
 requests
 broadlink
+uvicorn
+cryptography==3.2
